@@ -10,7 +10,7 @@ Auth templates to quickly use in your Next.js application
 
 ### Roadmap
 
-- [ ] Credentials auth
+- [x] Credentials auth
 - [ ] OTP auth
 - [ ] Magic Link
 - [ ] OAuth (Google, Microsoft, GitHub, LinkedIn)
